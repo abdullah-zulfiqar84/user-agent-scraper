@@ -5,19 +5,17 @@ This project is a Python-based User-Agent scraper that generates and saves a lis
 ## Features
 
 - Generates random, valid user-agent strings.
-- Saves the user-agents to a .txt file for later use.
+- Saves the user-agents to a `.txt` file for later use.
 - Customizable number of user-agents to generate (default is 1000).
 - Easy to use and integrate with your existing scripts.
 
-## Installation
+## How to Use
 
-### Prerequisites
-
-Before running the script, make sure you have Python installed on your machine. You will also need to install the following dependencies:
-
-- `fake_useragent` library
-
-You can install the required dependencies using pip:
+### 1. Clone this repository to your local machine:
 
 ```bash
-pip install fake_useragent
+git clone https://github.com/abdullah-zulfiqar84/user-agent-scraper.git
+
+### 2. Navigate into the project directory:
+```bash
+cd user-agent-scraper
