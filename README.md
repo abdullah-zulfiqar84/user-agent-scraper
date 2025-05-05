@@ -1,6 +1,3 @@
-# user-agent-scraper
-A Python tool to generate and save random user-agent strings for web scraping and automation purposes. Useful for projects like YouTube automation, scraping websites, or bypassing anti-bot measures. The user-agent list is saved in a text file for later use.
-
 # User-Agent Scraper
 
 This project is a Python-based User-Agent scraper that generates and saves a list of 1000 random, legitimate user-agent strings. It uses the `fake_useragent` library to create realistic user agents that can be useful for various tasks, including web scraping, automation, or testing.
